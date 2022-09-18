@@ -1,8 +1,8 @@
-import { ImageBackground } from 'react-native';
+import { ImageBackground } from "react-native";
 
-import backgroundImg from '../../assets/background-galaxy.png';
+import backgroundImg from "../../assets/background-galaxy.png";
 
-import { styles } from './styles';
+import { styles } from "./styles";
 
 interface Props {
   children: React.ReactNode;
